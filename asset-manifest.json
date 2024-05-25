@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/EDUPLATFORM%20%20/static/css/main.0de6be8f.css",
+    "main.js": "/EDUPLATFORM%20%20/static/js/main.21fe351c.js",
+    "static/media/remixicon.svg?t=1708865856766": "/EDUPLATFORM%20%20/static/media/remixicon.7735fab8dbf8ff78afe9.svg",
+    "static/media/remixicon.eot?t=1708865856766": "/EDUPLATFORM%20%20/static/media/remixicon.8542c1bb279bcd77063a.eot",
+    "static/media/remixicon.ttf?t=1708865856766": "/EDUPLATFORM%20%20/static/media/remixicon.4c942de19d980993f612.ttf",
+    "static/media/remixicon.woff?t=1708865856766": "/EDUPLATFORM%20%20/static/media/remixicon.28ceff39ee3e17dc99db.woff",
+    "static/media/remixicon.woff2?t=1708865856766": "/EDUPLATFORM%20%20/static/media/remixicon.39f4def56d0e8712909a.woff2",
+    "static/media/testimonial01.png": "/EDUPLATFORM%20%20/static/media/testimonial01.ef527bf36f2a27625c23.png",
+    "static/media/about-us.png": "/EDUPLATFORM%20%20/static/media/about-us.7cee11852f1eba53f13f.png",
+    "static/media/web-design.png": "/EDUPLATFORM%20%20/static/media/web-design.9071c3ef125375e2469a.png",
+    "static/media/seo.png": "/EDUPLATFORM%20%20/static/media/seo.b323da636359c745b6dc.png",
+    "static/media/web-development.png": "/EDUPLATFORM%20%20/static/media/web-development.91ce53388df7bc88002c.png",
+    "static/media/kids-learning.png": "/EDUPLATFORM%20%20/static/media/kids-learning.fcd258b6f9310b2dd2af.png",
+    "static/media/ui-ux.png": "/EDUPLATFORM%20%20/static/media/ui-ux.0366b465b35da2e796bb.png",
+    "static/media/graphics-design.png": "/EDUPLATFORM%20%20/static/media/graphics-design.08c25c6b6b3ecac266d2.png",
+    "static/media/slick.svg": "/EDUPLATFORM%20%20/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/EDUPLATFORM%20%20/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/EDUPLATFORM%20%20/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/EDUPLATFORM%20%20/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/EDUPLATFORM%20%20/index.html",
+    "main.0de6be8f.css.map": "/EDUPLATFORM%20%20/static/css/main.0de6be8f.css.map",
+    "main.21fe351c.js.map": "/EDUPLATFORM%20%20/static/js/main.21fe351c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0de6be8f.css",
+    "static/js/main.21fe351c.js"
+  ]
+}
